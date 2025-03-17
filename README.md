@@ -10,7 +10,6 @@
 - 即時顯示打字速度（WPM）
 - 準確率計算與錯誤提示
 - 練習結果統計報表
-- 自適應網頁設計
 
 ## 使用說明
 
@@ -28,12 +27,3 @@
 - 可擴充的單詞資料庫
 
 ## 本地運行
-
-```bash
-git clone https://github.com/AsamsiIo/typing-game.git
-cd typing-game
-open index.html
-```
-
-## 授權條款
-[MIT License](LICENSE)
